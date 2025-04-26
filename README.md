@@ -1,7 +1,7 @@
 # Image Acquisition using Web Camera
 
 ### Name : ANTHONY RAJ N
-### Register No : 21222320017
+### Register No : 212223230017
 
 ## Aim :
  
